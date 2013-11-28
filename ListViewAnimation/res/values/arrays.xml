@@ -1,0 +1,7 @@
+<resources>
+
+	<string-array name="activity_main_listview">  
+		<item>卡片飞上动画</item>  
+	</string-array>  
+
+</resources>
